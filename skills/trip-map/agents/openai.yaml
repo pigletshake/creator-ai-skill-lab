@@ -1,0 +1,5 @@
+interface:
+  display_name: "旅行攻略地图生成器"
+  short_description: "把粘贴的旅行攻略制作成静态总览地图与每日路线图"
+  default_prompt: "使用 $trip-map 将我粘贴的旅行攻略生成一张行程总览图和每天的静态路线图。"
+
